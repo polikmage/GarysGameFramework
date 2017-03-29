@@ -1,4 +1,4 @@
-package com.main;
+/*package com.main;
 
 public class Main {
 
@@ -6,3 +6,4 @@ public class Main {
 	// write your code here
     }
 }
+*/
